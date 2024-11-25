@@ -123,3 +123,128 @@ allowfullscreen></iframe>
 946146/946146-hd_1920_1080_30fps.mp4" width="500"></video>
 </body>
 </html>
+
+PRACTICAL 3:
+create a website using html and css.
+HTML CODE:
+<!DOCTYPE>
+<html>
+<head>
+<h1>Government college of Engineering</h1>
+<img src="C:\Users\bande\OneDrive\Documents\Desktop\wdt\o.jfif" width="100" right>
+</head>
+ <nav>
+<a href="https://www.gcoen.ac.in"> Home </a>&nbsp;&nbsp;
+<a href="https://www.gcoen.ac.in"> College </a>&nbsp;&nbsp;
+<a href=" https://www.gcoen.ac.in"> Courses </a>&nbsp;&nbsp;
+<a href=" https://www.gcoen.ac.in"> Study Material</a>&nbsp;&nbsp; 
+<a href="https://www.gcoen.ac.in ">login/signup</a>
+</nav>
+<main>
+<section>
+<h2> Courses</h2> 
+<video src=" C:\Users\bande\OneDrive\Documents\Desktop\wdt\cse.mp4" width="33%"
+poster="C:\Users\bande\OneDrive\Documents\Desktop\wdt\1.jfif" controls>
+ </video>
+ <video src="#" width="33%"
+poster="C:\Users\bande\OneDrive\Documents\Desktop\wdt\ee.jfif" controls>
+ </video>
+ <video src="#" width="33%" poster="C:\Users\bande\OneDrive\Documents\Desktop\wdt\entc.png" controls>
+ </video>
+</section>
+ <section>
+  <h2>college reviews</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wL70cVHAsjA?si=U0Zstkjh4g64X0Vz" title="YouTube video player" fra frameborder="0" allow="accelerometer
+; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+ <section>
+  <h2>our founder</h2>
+<img src="C:\Users\bande\OneDrive\Documents\Desktop\wdt\rr.jpeg" width=" ="100" alt="this is fou founder">
+  <br>
+<h3>Shri V C Rastogi</h3>
+<a href="https://www.youtube.com/"target="_blank" rel="noopener norefferer">Youtube</a>
+  <a href="https://www.linkedin.com/"target="_blank" rel="noopener norefferer">Linkedin</a>
+<a href="https://www.Instagram.com/"target="_blank" rel="noopener norefferer">Instagram</a>
+<a href="https://www.Facebook.com/"target="_blank" rel="noopener norefferer">Facebook</a>
+<h4> Welcome to Government College Of Engineering</h4>
+< p> This  Institute ,commonly referred as GCOEN, was started functioning in 2016 with 5 UG & 1 PG Engineering Programme administrative control of Higher and Technical Education, Govt. of Maharashtra.</p>
+</section>
+</main> 
+<footer>
+<a href=" ">FAQ</a>&nbsp;&nbsp;
+<a href=" ">contact us</a>&nbsp;&nbsp;
+<a href=" ">Terms of use</a>&nbsp;&nbsp; <a href=" ">Privacy Policy</a>&nbsp;&nbsp;
+<a href=" ">Refund Policy</a>&nbsp;&nbsp;
+<a href=" ">&copy; 2024|GCOE</a>
+</footer>
+</body>
+ CSS CODE:
+ * {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+Roboto, Oxygen, Ubuntu, Cantarell,
+   'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header h1 {
+  text-align: center;
+  font-size: 20px;
+  color:green;
+}
+header {
+  padding:20px;
+  background-color: rgb(17,124,143);
+}
+nav {
+  background-color: #333;
+  overflow: hidden;
+}
+nav a {
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  float: left;
+  color: white;
+}
+main {
+  color: white;
+  background-color: #333;
+  text-align: center;
+}
+h2 {
+  padding: 20px;
+}
+section:nth-child(even) {
+  background-color: rgb(241,241,241);
+}
+section {
+  min-height:100vh;
+}
+video {
+  padding: 10px;
+}
+iframe {
+  Height:75vh;
+}
+Img{
+Paddling:10px;
+}
+section h5 {
+  margin: 40px;
+}
+
+footer {
+  background-color:#333;
+  overflow: hidden;
+}
+
+footer a {
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  float: left;
+}
+</html>
