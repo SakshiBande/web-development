@@ -1,5 +1,5 @@
 # web-development
-practicals 
+
 practical 1:
 <!DOCTYPE html>
 <html>
