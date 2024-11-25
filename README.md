@@ -132,6 +132,7 @@ HTML CODE:
 <head>
 <h1>Government college of Engineering</h1>
 <img src="C:\Users\bande\OneDrive\Documents\Desktop\wdt\o.jfif" width="100" right>
+ <link rel="stylesheet" href="element.css">
 </head>
  <nav>
 <a href="https://www.gcoen.ac.in"> Home </a>&nbsp;&nbsp;
@@ -159,7 +160,7 @@ poster="C:\Users\bande\OneDrive\Documents\Desktop\wdt\ee.jfif" controls>
 </section>
  <section>
   <h2>our founder</h2>
-<img src="C:\Users\bande\OneDrive\Documents\Desktop\wdt\rr.jpeg" width=" ="100" alt="this is fou founder">
+<img src="C:\Users\bande\OneDrive\Documents\Desktop\wdt\rr.jpeg" width=" ="100" alt="this is founder">
   <br>
 <h3>Shri V C Rastogi</h3>
 <a href="https://www.youtube.com/"target="_blank" rel="noopener norefferer">Youtube</a>
