@@ -110,7 +110,8 @@ salt ="This is Image" width="200">
 <li><a href="#">buy.asus.amazon.in</a></li>
 <li><a href="#">buy.hp.amazon.in</a></li></ul>
 </nav>
-<aside><i>For choosing a perfect laptop watch the below video</i></aside>
+</tfoot>
+<aside><i>For choosing a perfect laptop watch the below video. </i></aside>
 <iframe width="560" height="315" src="https://www.youtube.com
 /embed/Y0tYtatquj8?si=Secm7RQyjP2keJmQ"
  title="YouTube video player"
